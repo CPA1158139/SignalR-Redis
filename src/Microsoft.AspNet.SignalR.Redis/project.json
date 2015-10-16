@@ -1,12 +1,11 @@
 {
-    "version": "3.0.0-*",
+    "version": "3.0.0-beta8",
     "dependencies": {
-        "Microsoft.AspNet.SignalR.Server": "3.0.0-*",
-        "Microsoft.Framework.Configuration.Json": "1.0.0-*",
+        "Microsoft.AspNet.SignalR.Server": "3.0.0-beta8",
+        "Microsoft.Framework.Configuration.Json": "1.0.0-beta8",
         "StackExchange.Redis": "1.0.394"
     },
     "frameworks": {
-        "dnx451": {
-        }
+        "dnx451": {}
     }
 }
